@@ -22,7 +22,7 @@ public class Main {
 
         Mentoria mentoria1 = new Mentoria();
         mentoria1.setTitulo("mentoria de java");
-        mentoria1.setDecricao("descrição  mentoria java");
+        mentoria1.setDescricao("descrição  mentoria java");
         mentoria1.setData(LocalDate.now());
         System.out.println(mentoria1);
 
